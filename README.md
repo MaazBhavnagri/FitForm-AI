@@ -12,7 +12,19 @@
 * 🧠 Smart feedback system (depth, posture, speed)
 * 📱 Mobile + Desktop responsive UI
 * ⚡ High-performance (smooth real-time tracking)
-* 🎯 Exercise detection (auto switch between pushup & squat)
+* 🎯 Automatic exercise detection (pushup & squat)
+
+---
+
+## 🧠 Why FitForm AI?
+
+Many people perform exercises incorrectly, leading to injuries or poor results.
+
+👉 FitForm AI solves this by:
+
+* Providing **real-time posture correction**
+* Ensuring **only correct reps are counted**
+* Acting like a **virtual fitness coach**
 
 ---
 
@@ -34,6 +46,11 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://fitformai.vercel.app/
+---
+
 ## 🧩 Tech Stack
 
 * React (Vite)
@@ -47,17 +64,11 @@
 ## ⚙️ Installation (Local Setup)
 
 ```bash
-git clone https://github.com/your-username/fitform-ai.git
+git clone https://github.com/MaazBhavnagri/FitForm-AI.git
 cd fitform-ai
 npm install
 npm run dev
 ```
-
----
-
-## 🌐 Live Demo
-
-👉 (Add your Vercel link here after deployment)
 
 ---
 
@@ -74,9 +85,9 @@ npm run dev
 
 If you have suggestions or feedback, feel free to reach out:
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin
-* 💻 GitHub: your-github
+* 📧 Email: [maazbhavnagri@gmail.com](mailto:maazbhavnagri@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/maaz-bhavnagri-04b562252/
+* 💻 GitHub: https://github.com/MaazBhavnagri
 
 ---
 
@@ -95,3 +106,9 @@ If you like this project, consider giving it a ⭐ on GitHub!
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+
+---
+
+## 🔍 Keywords
+
+AI fitness, pose detection, pushup form checker, squat analyzer, computer vision, MediaPipe, React app
